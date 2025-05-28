@@ -5,12 +5,13 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "src"
 version = "0.0.1"
-description = "FBarebones template for creating data science projects."
+description = "Barebones template for creating data science projects."
 authors = [
   { name = "Jakob Nilsson" },
 ]
 
 readme = "README.md"
+
 classifiers = [
     "Programming Language :: Python :: 3",
     
